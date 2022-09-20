@@ -1,0 +1,7 @@
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\bin\Debug\Student Program.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\bin\Debug\Student Program.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\bin\Debug\Student Program.pdb
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\obj\Debug\Student Program.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\obj\Debug\Student Program.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\obj\Debug\Student Program.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Student Program\Student Program\obj\Debug\Student Program.pdb
