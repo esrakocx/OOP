@@ -1,0 +1,7 @@
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
