@@ -1,0 +1,7 @@
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
