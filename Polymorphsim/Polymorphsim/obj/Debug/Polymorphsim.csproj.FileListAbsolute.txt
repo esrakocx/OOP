@@ -1,0 +1,7 @@
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\bin\Debug\Polymorphsim.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\bin\Debug\Polymorphsim.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\bin\Debug\Polymorphsim.pdb
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\obj\Debug\Polymorphsim.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\obj\Debug\Polymorphsim.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\obj\Debug\Polymorphsim.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Polymorphsim\Polymorphsim\obj\Debug\Polymorphsim.pdb
