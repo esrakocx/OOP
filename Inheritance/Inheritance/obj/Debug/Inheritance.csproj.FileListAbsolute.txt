@@ -1,0 +1,7 @@
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
