@@ -1,0 +1,7 @@
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+C:\Users\esraz\OneDrive\Masaüstü\OOP\Enumerations\Enumerations\obj\Debug\Enumerations.pdb
